@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kiit/Desktop/Scaler/Classes/MLOps/8%29%20Experiment%20Tracking%20ML%20FLow/Experiment_Tracking_ML_FLow/mlruns/405321492980595786/806e364dd670463db342a28b6694398f/artifacts
+end_time: 1674565691396
+entry_point_name: ''
+experiment_id: '405321492980595786'
+lifecycle_stage: active
+run_id: 806e364dd670463db342a28b6694398f
+run_name: hyperparameter_run_4
+run_uuid: 806e364dd670463db342a28b6694398f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1674565686243
+status: 3
+tags: []
+user_id: kiit
